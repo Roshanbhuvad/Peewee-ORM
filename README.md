@@ -3,7 +3,7 @@
 
 
 # What is ORM?
---> Object Relational Mapping(ORM) is a technique for storing, retrieving, updating and deleting from an object-orinted program in relational database
+--> Object Relational Mapping(ORM) is a technique for storing, retrieving, updating and deleting from an object-orinted program in relational database.
 
 1. Create a virtual Environment and install dependencies from requirements.txt file, Download DB Browser(SQLite) software to view our table structure
 
@@ -18,3 +18,16 @@
 6. Then type >>> from orm_practice import *
 
 7. And then >>> db.create_tables([Store, Warehouse, Product ]) # This command will create tables in our database with mentioned columns nane
+
+# Database schema
+<img src="images/database_structure.JPG">
+
+# Product table 
+<img src="images/product_table.JPG">
+
+# Store table
+
+<img src="images/store_table.JPG">
+
+
+
