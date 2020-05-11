@@ -1,2 +1,2 @@
 # Peewee-ORM
-ORm concept with Sqlite database
+# ORM concept with Sqlite database
